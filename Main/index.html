@@ -10,6 +10,36 @@
     <script src="main.js"></script>
 </head>
 <body>
+    <form>
+        <label for="forwardBind">Move forward:</label><br>
+        <input type="text" id="forwardBind" name="forwardBind" value="w"><br>
+        <label for="leftBind">Move left:</label><br>
+        <input type="text" id="leftBind" name="leftBind" value="a"><br>
+        <label for="downBind">Move down:</label><br>
+        <input type="text" id="downBind" name="downBind" value="s"><br>
+        <label for="rightBind">Move right:</label><br>
+        <input type="text" id="rightBind" name="rightBind" value="d"><br>
+        <label for="jumpBind">Jump:</label><br>
+        <input type="text" id="jumpBind" name="jumpBind" value="space"><br>
+        <label for="crouchBind">Crouch:</label><br>
+        <input type="text" id="crouchBind" name="crouchBind" value="shift"><br>
+        <label for="throwBind">Quick Throw:</label><br>
+        <input type="text" id="throwBind" name="throwBind" value="mouse4"><br>
+        <label for="batBind">Quick Bind:</label><br>
+        <input type="text" id="batBind" name="batBind" value="mouse5"><br>
+    </form>
+    <br>
+    <form>
+        <input type="checkbox" id="nullMove" name="nullMove" value="NullMove" checked>
+        <label for="nullMove">Null Movement Script</label><br>
+        <input type="checkbox" id="autoCrouch" name="autoCrouch" value="AutoCrouch" checked>
+        <label for="autoCrouch">Auto Crouch Jump</label><br>
+        <input type="checkbox" id="qThrow" name="qThrow" value="QThrow" checked>
+        <label for="qThrow">Quick Throw (Cleaver, Milk)</label><br>
+        <input type="checkbox" id="bThrow" name="bThrow" value="BThrow" checked>
+        <label for="bThrow">Quick Bat (Wrap, Sandman)</label><br>
+    </form>
+    <br>
     <button onclick="downloadZip()">DOWNLOAD</button>
 </body>
 </html>
