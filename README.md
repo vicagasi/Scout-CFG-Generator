@@ -41,6 +41,7 @@ This project is licensed under the GPL-3.0 license - see the LICENSE.md file for
 ## Acknowledgments
 
 * Valve Software for creating Team Fortress 2
-* [FUNKe's Null Movement Script] (https://www.youtube.com/watch?v=T_KUgZjY5Wo)
-* [Woolean Sleevelt's Scripts] (https://www.youtube.com/watch?v=cRGW4a1K_Io&t=1102s)
-* [Chdata's Auto Crouch Jump Script] (http://tf2.gamebanana.com/scripts/7982)
+* [FUNKe's Null Movement Script](https://www.youtube.com/watch?v=T_KUgZjY5Wo)
+* [Woolean Sleevelt's Scripts](https://www.youtube.com/watch?v=cRGW4a1K_Io&t=1102s)
+* [Chdata's Auto Crouch Jump Script](http://tf2.gamebanana.com/scripts/7982)
+* [DomPizzie's Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
